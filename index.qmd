@@ -1,7 +1,7 @@
 ---
 title: "Estimating the Unobserved: A Simulation Study on Censoring and Truncation in Evidence Accumulation Models"
 # If blank, the running header is the title in upper case.
-shorttitle: "Censoring and Truncation in EAMs"
+shorttitle: "Censoring and Truncation in EAM"
 # Set names and affiliations.
 # It is nice to specify everyone's orcid, if possible.
 # There can be only one corresponding author, but declaring one is optional.
@@ -23,6 +23,9 @@ abstract: "This is a placeholder for the abstract."
 # Put as many keywords at you like, separated by commmas (e.g., [reliability, validity, generalizability])
 keywords: [censoring, truncation, missing data, evidence accumulation, choice response data, diffusion decision model, linear ballistic accumulator, Bayesian hierarchical modeling]
 # If true, tables and figures are mingled with the text instead of listed at the end of the document.
+course: "MI2324RM: Research Master's Internship"
+professor: Andrew Heathcote
+duedate: August 31st, 2024
 floatsintext: true
 # Numbered lines (.pdf and .docx only)
 numbered-lines: false
